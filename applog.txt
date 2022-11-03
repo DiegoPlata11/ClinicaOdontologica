@@ -1,0 +1,20 @@
+INFO    2022-11-02 14:58:59,150 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 14:58:59,150 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 15:05:34,370 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 15:05:34,373 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 15:17:22,959 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 15:17:22,959 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+INFO    2022-11-02 15:17:22,959 [main] Main.Model.ClinicaOdontologica  - Se agrego un odontologo correctamente
+ERROR   2022-11-02 16:13:55,964 [main] Main.Model.ClinicaOdontologica  - La lista de odontólogos esta vacía
+INFO    2022-11-02 16:14:37,737 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 16:14:37,738 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 16:14:37,739 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:03:12,400 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:03:12,451 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:03:12,451 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:16:17,316 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:16:17,316 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+INFO    2022-11-02 20:16:17,316 [main] Main.Model.ClinicaOdontologica  - Se agregó un odontólogo correctamente
+DEBUG   2022-11-02 20:16:17,363 [main] dao.impl.OdontologoDaoH2  - Registrando nuevo odontólogo: Odontologo{apellido='Nomezqui', nombre='Ana', Matricula='123456'}
+DEBUG   2022-11-02 20:16:18,114 [main] dao.impl.OdontologoDaoH2  - Registrando nuevo odontólogo: Odontologo{apellido='Perez', nombre='Pablo', Matricula='457890'}
+DEBUG   2022-11-02 20:16:18,114 [main] dao.impl.OdontologoDaoH2  - Registrando nuevo odontólogo: Odontologo{apellido='Martinez', nombre='Oscar', Matricula='2323568'}
